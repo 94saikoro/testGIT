@@ -3,3 +3,4 @@
 ています。
 
 言語は、C言語とJavaです。
+Android Studioでアプリを作ります！
